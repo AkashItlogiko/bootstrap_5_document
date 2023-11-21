@@ -1,0 +1,37 @@
+   .my-link-style:hover {
+    text-decoration:underline;
+   }
+   .phato{
+      width:150px;
+      height:130px;
+       border-radius: 35px;
+   }
+
+.my-c{
+background-color: rgb(151, 26, 200);
+
+}
+ #feedback{
+background :darkblue;
+padding:5% 40%;
+
+ }
+ .hr-style{
+   border: 5px dotted white;
+   border-bottom: none;
+width:right 5px;
+ }
+ .img-st{
+width:150px;
+height:auto;
+
+ }
+ .carousel-item{
+   padding:12% 15%;
+text-align:center;
+font-style:italic;
+ }
+ .carousel-indicators{
+   bottom:-20px;
+ }
+  
